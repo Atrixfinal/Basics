@@ -1,7 +1,9 @@
 #include<iostream>                                  //input output
 using namespace std;
 //use for cin and cout if we don't use this then we have to use cout and cin as std::cout or std::cin again and again so it is better to use using/typedef
-int main()                                          //in cpp main fnx is usally in int or what you want but not in void (void could create errors)
+
+//in cpp main fnx is usally in int or what you want but not in void (void could create errors, but fnx can be in void)
+int main()
 {
     char name[50];
     int x,y,z;
