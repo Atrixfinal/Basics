@@ -60,7 +60,7 @@ int main()                                          //in cpp main fnx is usally 
                 cout<<"c is the smallest"<<endl;
                 min=c;
             }
-    if (a!=max&&a!=min)                     //if num is nither max nor min then it should be mid
+    if (a!=max&&a!=min)                     //if num is neither max nor min then it should be mid
             {
                 cout<<"a is the mid"<<endl;
             }
